@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+ 
+
+.text{
+ font-family:'Times New Roman', Times, serif;
+}
+::selection{
+    color: orange;
+}
